@@ -10,9 +10,9 @@
 
 Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
 
-## 📝 Licença
+## 📝 Link do site :)
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+(https://mytimecapsule.netlify.app)
 
 <!--START_SECTION:footer-->
 
